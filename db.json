@@ -1,26 +1,29 @@
-[
-    {
+{
+    "Products": [
+      {
         "product_id": 1,
         "name": "Smartphone",
         "description": "High-end smartphone with advanced features",
         "price": 999.99,
         "category": "Electronics",
         "supplier": "TechCorp"
-    },
-    {
+      },
+      {
         "product_id": 2,
         "name": "T-shirt",
         "description": "Cotton crew-neck t-shirt",
         "price": 19.99,
         "category": "Clothing",
         "supplier": "FashionWholesalers"
-    },
-    {
+      },
+      {
         "product_id": 3,
         "name": "Python Programming Guide",
         "description": "Comprehensive guide to Python programming",
         "price": 39.99,
         "category": "Books",
         "supplier": "BookHouse"
-    }
-]
+      }
+    ]
+  }
+  
